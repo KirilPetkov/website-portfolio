@@ -141,6 +141,9 @@ p {
 }
 
 @media only screen and (max-width: 1000px) {
+    
+    /*Anything under or equal a thousands pixels is gonna have a different type of styling.*/
+    
     .project-container {
         display: flex;
         flex-wrap: wrap;
@@ -178,6 +181,9 @@ a {
 
 
 @media only screen and (max-width: 1000px) {
+    
+    /*Anything under or equal a thousands pixels is gonna have a different type of styling.*/
+    
     .hamburger {
         display: block;
         border: 0;
